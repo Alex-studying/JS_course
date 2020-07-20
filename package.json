@@ -1,0 +1,22 @@
+{
+  "name": "js_training",
+  "version": "1.0.0",
+  "description": "Project for Mocha test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-studying/JS_course.git"
+  },
+  "author": "Alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alex-studying/JS_course/issues"
+  },
+  "homepage": "https://github.com/Alex-studying/JS_course#readme",
+  "dependencies": {
+    "mocha": "^8.0.1"
+  }
+}
